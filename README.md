@@ -4,6 +4,6 @@ This repository contains notes on specific topics that I read during my training
 
 | Topic | Link |
 |-------|------|
-| SQL | [SQL](./SQL/SQL.md) |
+| SQL | [URL](./SQL/SQL.md) |
+| CommandLine | [URL](./CommandLine/CommandLine.md) |
 
-<!-- | Example Topic 2 | [Link to Example Topic 2 Readme](./example_topic_2/README.md) | -->
