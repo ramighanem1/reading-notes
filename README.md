@@ -9,4 +9,5 @@ This repository contains notes on specific topics that I read during my training
 | GrowthMindset | [URL](./GrowthMindset/GrowthMindset.md) |
 | Class01 | [URL](./Class01/Class01.md) |
 | Class02 | [URL](./Class01/Class02.md) |
+| Data Structures And Algorithms | [URL](./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.md) |
 
