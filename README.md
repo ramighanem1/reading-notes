@@ -6,4 +6,7 @@ This repository contains notes on specific topics that I read during my training
 |-------|------|
 | SQL | [URL](./SQL/SQL.md) |
 | CommandLine | [URL](./CommandLine/CommandLine.md) |
+| GrowthMindset | [URL](./GrowthMindset/GrowthMindset.md) |
+| Class01 | [URL](./Class01/Class01.md) |
+| Class02 | [URL](./Class01/Class02.md) |
 
