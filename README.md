@@ -13,3 +13,4 @@ This repository contains notes on specific topics that I read during my training
 | Engineering | [URL](./Engineering/Engineering.md) |
 | Class03 | [URL](./Class03/Class03.md) |
 | Class04 | [URL](./Class04/Class04.md) |
+| Linked Lists | [URL](./LinkedLists/LinkedLists.md) |
