@@ -15,3 +15,4 @@ This repository contains notes on specific topics that I read during my training
 | Class04 | [URL](./Class04/Class04.md) |
 | Linked Lists | [URL](./LinkedLists/LinkedLists.md) |
 | Class06 | [URL](./Class06/Class06.md) |
+| Class07 | [URL](./Class07/Class07.md) |
