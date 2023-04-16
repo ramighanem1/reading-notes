@@ -34,7 +34,10 @@ Risk analysis is a crucial process in software development that involves identif
 
 
 
+# Test Coverage
 
+Test coverage is a useful tool to find untested parts of a codebase, but it is of little use as a numeric statement of how good your tests are, and high coverage numbers are too easy to reach with low-quality testing. Sufficiency of testing is much more complicated than coverage can answer, and you can test too much if it slows you down or creates duplication in tests. Test coverage helps you find which parts of your code aren't being tested and should be used as a tool to improve your testing strategy.
 
+# Big O
 
-
+Big O notation is a mathematical notation used to describe the time complexity of an algorithm. It gives an upper bound on the worst-case time complexity of an algorithm in terms of the size of its input. For example, an algorithm that takes O(n) time means that the worst-case time to complete the algorithm is proportional to the size of the input data.
