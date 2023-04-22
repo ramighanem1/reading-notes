@@ -17,3 +17,4 @@ This repository contains notes on specific topics that I read during my training
 | Class06 | [URL](./Class06/Class06.md) |
 | Class07 | [URL](./Class07/Class07.md) |
 | Class08 | [URL](./Class08/Class08.md) |
+| Class09 | [URL](./Class09/Class09.md) |
