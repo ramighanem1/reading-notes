@@ -20,3 +20,4 @@ This repository contains notes on specific topics that I read during my training
 | Class09 | [URL](./Class09/Class09.md) |
 | Class10 | [URL](./Class10/Class10.md) |
 | Class11 | [URL](./Class11/Class11.md) |
+| Class12 | [URL](./Class12/Class12.md) |
