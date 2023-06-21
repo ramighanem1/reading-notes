@@ -31,3 +31,4 @@ This repository contains notes on specific topics that I read during my training
 | Class28 | [URL](./Class28/Class28.md) |
 | Class29 | [URL](./Class29/Class29.md) |
 | Class30 | [URL](./Class30/Class30.md) |
+| Class31 | [URL](./Class31/Class31.md) |
