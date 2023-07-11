@@ -35,3 +35,4 @@ This repository contains notes on specific topics that I read during my training
 | Class32 | [URL](./Class32/Class32.md) |
 | Class33 | [URL](./Class33/Class33.md) |
 | Class34 | [URL](./Class34/Class34.md) |
+| Class35 | [URL](./Class35/Class35.md) |
